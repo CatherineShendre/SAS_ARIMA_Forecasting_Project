@@ -15,6 +15,7 @@ Tools: SAS for ARIMA modeling and exploratory data analysis.
 Techniques: Augmented Dickey-Fuller (ADF) test for stationarity, ARIMA (2,2,2) modeling.
 
 **Key Findings by Sector**
+
 Aviation & Tourism: Indigo saw a 5.67% drop but shows recovery, while SpiceJet faced a 73% decline, struggling to rebound.
 Healthcare: Apollo Hospitals and Dr. Reddy’s saw initial drops (42% and 37%) but recovered with increased demand for healthcare.
 Retail & E-commerce: Dabur experienced a 9% drop, recovering with demand for immunity products. DMart saw stable growth post-pandemic.
@@ -24,10 +25,14 @@ Oil & Gas: Indian Oil and BPCL faced drops but are gradually recovering with glo
 Entertainment & Media: Zee Entertainment fell, while Zoom surged by 83% as digital platforms flourished.
 IT: HCL and TCS faced moderate drops but recovered quickly as the demand for digital transformation surged.
 Automotive: Mahindra & Mahindra saw a 49% drop due to reduced demand but began recovering as production resumed post-lockdown.
+
 **Tools & Technologies**
+
 SAS: Used for ARIMA modeling and data analysis.
 Data Sources: NSE, BSE, NASDAQ stock data.
+
 **Conclusion**
+
 The study highlights the varied recovery timelines across sectors, with healthcare, telecom, and IT showing quicker rebounds, while aviation, real estate, and oil & gas sectors face slower recoveries. The ARIMA forecasts provide valuable insights for understanding sector-specific recovery trends in the post-pandemic economy.
 
 
