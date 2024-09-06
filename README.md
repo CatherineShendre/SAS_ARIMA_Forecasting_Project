@@ -34,6 +34,7 @@ IT: HCL and TCS faced moderate drops but recovered quickly as the demand for dig
 
 Automotive: Mahindra & Mahindra saw a 49% drop due to reduced demand but began recovering as production resumed post-lockdown.
 
+
 **Tools & Technologies**
 
 SAS: Used for ARIMA modeling and data analysis.
