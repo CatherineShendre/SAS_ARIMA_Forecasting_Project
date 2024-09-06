@@ -5,14 +5,20 @@ This project analyzes the impact of the COVID-19 pandemic on various sectors of 
 **Objective**
 
 Analyze the effects of COVID-19 on stock prices in 25 companies across multiple sectors.
+
 Apply ARIMA models to forecast post-pandemic trends.
+
 Identify recovery patterns and remaining volatility in each sector.
+
 
 **Methodology**
 
 Data: Stock prices from Jan 2018 to Dec 2023 (NSE/BSE/NASDAQ).
+
 Tools: SAS for ARIMA modeling and exploratory data analysis.
+
 Techniques: Augmented Dickey-Fuller (ADF) test for stationarity, ARIMA (2,2,2) modeling.
+
 
 **Key Findings by Sector**
 
@@ -38,6 +44,7 @@ Automotive: Mahindra & Mahindra saw a 49% drop due to reduced demand but began r
 **Tools & Technologies**
 
 SAS: Used for ARIMA modeling and data analysis.
+
 Data Sources: NSE, BSE, NASDAQ stock data.
 
 **Conclusion**
