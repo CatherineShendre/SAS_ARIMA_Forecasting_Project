@@ -1,0 +1,60 @@
+The ARIMA Procedure
+
+BY group: AIRTEL
+Name of Variable = Close
+
+Number of Observations    42
+
+Descriptive Statistics
+
+  Mean               343.8671
+  Std Dev             29.7951
+  Minimum            297.4000
+  Maximum            399.6500
+
+Autocorrelations
+
+  Lag    Correlation    Std Error
+  ---    -----------    ---------
+  Lag   1     0.928501     0.154303
+  Lag   2     0.821865     0.154303
+  Lag   3     0.677617     0.154303
+  Lag   4     0.525871     0.154303
+  Lag   5     0.375553     0.154303
+  Lag   6     0.233805     0.154303
+  Lag   7     0.099200     0.154303
+  Lag   8    -0.024898     0.154303
+  Lag   9    -0.151394     0.154303
+  Lag  10    -0.251985     0.154303
+  Lag  11    -0.334365     0.154303
+  Lag  12    -0.388025     0.154303
+  Lag  13    -0.438899     0.154303
+  Lag  14    -0.462590     0.154303
+  Lag  15    -0.483624     0.154303
+  Lag  16    -0.487905     0.154303
+  Lag  17    -0.479468     0.154303
+  Lag  18    -0.449977     0.154303
+  Lag  19    -0.416806     0.154303
+  Lag  20    -0.377266     0.154303
+
+Model: ARIMA(1,0,0)
+
+Parameter Estimates:
+Parameter      Estimate      Std Error     t Value       Pr > |t|
+-----------    ----------    ----------    ----------    ----------
+ar1                0.9584        0.0350         27.40        0.0000
+intercept        330.8507       22.4331         14.75        0.0000
+
+Fit Statistics:
+  AIC: 307.4312
+  BIC: 312.6442
+  Variance Estimate: 75.803541
+
+ADF Unit Root Test:
+  Test Statistic: -2.497588
+  p-value: 0.116062
+  Lags Used: 2
+  Critical Value (1%): -3.610400
+  Critical Value (10%): -2.608063
+  Critical Value (5%): -2.939109
+

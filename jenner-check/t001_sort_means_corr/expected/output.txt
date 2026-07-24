@@ -1,0 +1,25 @@
+                                                  The MEANS Procedure
+
+                                               Analysis Variable : Close
+
+        Name                N Obs           Mean        Std Dev        Minimum        Maximum
+        -------------------------------------------------------------------------------------
+        AIRTEL                 42    335.7014286     37.0834759    288.3500000    414.4500000
+        APOLLOHOSP             42   1108.6588095     95.5400104    943.7400000   1287.5000000
+        -------------------------------------------------------------------------------------
+
+                    The CORR Procedure
+                         2 Variables:    Close   Date
+                    Simple Statistics
+Variable         N      Mean   Std Dev       Sum   Minimum   Maximum
+--------  --------  --------  --------  --------  --------  --------
+Close           84   722.18012  395.41577  60663.13000   288.35000  1287.50000
+Date            84  16/09/2019  371.27720   10/07/6975  01/01/2018  01/06/2021
+   Pearson Correlation Coefficients, N = 84
+          Prob > |r| under H0: Rho=0
+               Close      Date
+--------  --------  --------
+Close      1.00000  -0.06284
+              .       0.5701
+Date      -0.06284   1.00000
+            0.5701      .

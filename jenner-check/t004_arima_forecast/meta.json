@@ -1,0 +1,7 @@
+{
+  "bundle": "t004_arima_forecast",
+  "source_file": "Project_Code.sas",
+  "source_blob_sha": "8a7c9ebab218301aeb1658bb6b61846edb74c673",
+  "source_commit": "778789cfe83b4f62ea004bb39a9cbc939d18b48d",
+  "notes": "Forecasting stage: ARIMA identify var=Close(2), estimate p=2 q=2 method=ml, forecast lead=12 out=forecast_out. 42-month AIRTEL Close series inline; forecast_out = 42 obs + 12 lead = 54."
+}
