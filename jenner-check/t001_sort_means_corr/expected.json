@@ -1,0 +1,21 @@
+{
+  "_captured_at": "2026-07-24T05:22:51Z",
+  "_captured_run_id": "r_fb0aebff4f62499b975e9f089be3c7f8",
+  "_captured_from": "https://api.jenneranalytics.com/v1/run",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote DataFrame (84 rows, 6 columns).",
+    "NOTE: PROC SORT statement used.",
+    "NOTE: PROC MEANS statement used.",
+    "NOTE: PROC CORR ODS Graphics generated."
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

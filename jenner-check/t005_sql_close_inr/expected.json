@@ -1,0 +1,21 @@
+{
+  "_captured_at": "2026-07-24T05:22:51Z",
+  "_captured_run_id": "r_2495469ec7ae4655a25eb718c96fb5ba",
+  "_captured_from": "https://api.jenneranalytics.com/v1/run",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote ExchangeRate (6 rows, 2 columns).",
+    "NOTE: Table META created.",
+    "NOTE: PROC SQL statement used.",
+    "NOTE: PROC PRINT completed: 6 observations printed, 4 variables"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

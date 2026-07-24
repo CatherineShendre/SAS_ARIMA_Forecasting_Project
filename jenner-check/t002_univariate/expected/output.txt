@@ -1,0 +1,119 @@
+                        Name=AIRTEL
+
+                                                The UNIVARIATE Procedure
+                                                    Variable:  Close
+
+                                                        Moments
+
+N                                 42    Sum Weights                       42
+Mean                      335.701429    Sum Observations        14099.460000
+Std Deviation              37.083476    Variance                 1375.184188
+Skewness                    0.628889    Kurtosis                   -0.902856
+Uncorrected SS        4789591.415800    Corrected SS            56382.551714
+Coeff Variation            11.046565    Std Error Mean              5.722105
+
+           Basic Statistical Measures           
+
+Location              Variability               
+--------  ----------  -------------  -----------
+Mean      335.701429  Std Deviation    37.083476
+Median    327.335000  Variance       1375.184188
+Mode      306.330000  Range           126.100000
+
+Quantiles (Definition 5)
+
+Quantile      Estimate
+----------  ----------
+0% Min      288.350000
+1%          288.350000
+5%          296.250000
+10%         297.680000
+25% Q1      303.640000
+50% Median  327.335000
+75% Q3      362.630000
+90%         395.200000
+95%         399.370000
+99%         414.450000
+100% Max    414.450000
+
+           Extreme Observations           
+
+Lowest                Highest             
+--------  ----------  --------  ----------
+Value     288.350000  Value     395.200000
+Value     294.830000  Value     395.980000
+Value     296.250000  Value     399.370000
+Value     297.210000  Value     405.620000
+Value     297.680000  Value     414.450000
+
+
+
+
+         Tests for Location          
+
+Test                Statistic   p Value
+------------------  ---------  --------
+Student's t         58.667475344         0
+Sign                       21         0
+Signed Rank               903  0.000000017
+
+
+                        Name=APOLLOHOSP
+
+                                                The UNIVARIATE Procedure
+                                                    Variable:  Close
+
+                                                        Moments
+
+N                                 42    Sum Weights                       42
+Mean                     1108.658810    Sum Observations        46563.670000
+Std Deviation              95.540010    Variance                 9127.893596
+Skewness                   -0.025199    Kurtosis                   -1.145454
+Uncorrected SS        51997466.586700    Corrected SS           374243.637440
+Coeff Variation             8.617621    Std Error Mean             14.742144
+
+           Basic Statistical Measures            
+
+Location               Variability               
+--------  -----------  -------------  -----------
+Mean      1108.658810  Std Deviation    95.540010
+Median    1100.070000  Variance       9127.893596
+Mode                .  Range           343.760000
+
+Quantiles (Definition 5)
+
+Quantile       Estimate
+----------  -----------
+0% Min       943.740000
+1%           943.740000
+5%           962.570000
+10%          980.570000
+25% Q1      1016.230000
+50% Median  1100.070000
+75% Q3      1186.170000
+90%         1227.290000
+95%         1237.580000
+99%         1287.500000
+100% Max    1287.500000
+
+           Extreme Observations            
+
+Lowest                Highest              
+--------  ----------  --------  -----------
+Value     943.740000  Value     1227.290000
+Value     959.060000  Value     1231.180000
+Value     962.570000  Value     1237.580000
+Value     972.850000  Value     1265.690000
+Value     980.570000  Value     1287.500000
+
+
+
+
+         Tests for Location          
+
+Test                Statistic   p Value
+------------------  ---------  --------
+Student's t         75.203364893         0
+Sign                       21         0
+Signed Rank               903  0.000000017
+

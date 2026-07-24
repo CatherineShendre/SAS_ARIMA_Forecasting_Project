@@ -1,0 +1,21 @@
+{
+  "_captured_at": "2026-07-24T05:22:51Z",
+  "_captured_run_id": "r_c57971ea2f684f79aa2f3a016d3163a4",
+  "_captured_from": "https://api.jenneranalytics.com/v1/run",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: PROC ARIMA data=DataFrame",
+    "NOTE: Output dataset forecast_out created with 54 observations.",
+    "NOTE: PROC ARIMA completed. 1 model(s) estimated.",
+    "NOTE: PROC PRINT completed: 15 observations printed, 8 variables"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}
